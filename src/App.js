@@ -162,7 +162,7 @@ useEffect(() => {
 			<div className="header-container">
 				<header>
 					<div className="left">
-						<p className="title">Phone Name Service</p>
+						<p className="title">Phone Name Service New</p>
 						<p className="subtitle">API on the blockchain!</p>
 					</div>
 				</header>
