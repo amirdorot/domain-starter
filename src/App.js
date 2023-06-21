@@ -25,7 +25,7 @@ const App = () => {
       const { ethereum } = window;
 
       if (!ethereum) {
-        alert("Get MetaMask -> https://metamask.io/");
+        alert("Get MetaMask -> https://metamask.io/ so it will work");
         return;
       }
 
