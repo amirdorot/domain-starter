@@ -9,7 +9,7 @@ import contractAbi from './utils/contractABI.json';
 const TWITTER_HANDLE = '_buildspace';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
-const tld = '.phone';
+const tld = '.phone2';
 const CONTRACT_ADDRESS = '0x5FbDB2315678afecb367f032d93F642f64180aa3';
 
 const App = () => {
@@ -137,7 +137,7 @@ const App = () => {
 		<input
 		  type="text"
 		  value={record}
-		  placeholder='record?'
+		  placeholder='record something?'
 		  onChange={e => setRecord(e.target.value)}
 		/>
   
