@@ -137,7 +137,7 @@ const App = () => {
 		<input
 		  type="text"
 		  value={record}
-		  placeholder='record something?'
+		  placeholder='record?'
 		  onChange={e => setRecord(e.target.value)}
 		/>
   
